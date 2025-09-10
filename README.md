@@ -87,14 +87,15 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 ### Folder before deleting the files
 
+![image1](https://github.com/user-attachments/assets/ce17a5ca-6da0-4164-8fa9-f59b738abbcf)
 
 ### Folder after deleting the files
+![image 3](https://github.com/user-attachments/assets/f96ca485-929f-4084-9289-fbe1d2b966b6)
 
-<img width="1157" height="242" alt="Screenshot 2025-08-22 154355" src="https://github.com/user-attachments/assets/052e0aac-c42d-421e-aba1-e8031bdd3ee5" />
 
 ### Folder after extracting the deleted images using autopsy
 
-<img width="970" height="188" alt="Screenshot 2025-08-22 091320" src="https://github.com/user-attachments/assets/342802c8-6f29-4147-a847-e6cceeff0ac8" />
+<img width="884" height="479" alt="image" src="https://github.com/user-attachments/assets/d66954e2-7c56-47fb-897e-670daa810a3f" />
 
 
 ## RESULT:
